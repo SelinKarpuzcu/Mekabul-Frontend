@@ -33,7 +33,7 @@ function AddComment() {
   };
   const handleModelClose = () => {
     setShowModel(false);
-    navigate('/venue/${id}');
+    navigate("/venue/"+id);
   }
 
     return (
