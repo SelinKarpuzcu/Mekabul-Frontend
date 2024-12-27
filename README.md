@@ -1,8 +1,7 @@
 # Mekabul React Front-End
 
-Vercel linki: [https://mekanbul-steel.vercel.app/](https://mekanbul-steel.vercel.app/)
+Vercel linki: https://mekanbul-git-main-selin-karpuzcu-projects.vercel.app/
 
-Localhost linki: [http://localhost:5173/](http://localhost:5173/)
 
 **Uygulamayı çalıştırmak için:**
 ```
