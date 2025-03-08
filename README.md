@@ -1,4 +1,4 @@
-# Mekabul React Front-End
+# Mekanbul Front-End React
 
 Vercel linki: https://mekanbul-git-main-selin-karpuzcu-projects.vercel.app/
 
